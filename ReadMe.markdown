@@ -12,7 +12,7 @@ Then create the function call at the very bottom of the code:
 
 ## CSS 3 creates the hover state and transitions:
 
-`  
+  
     body, html {margin:0;}
 
     body {font-size: 20px; color:black;}
@@ -25,7 +25,7 @@ Then create the function call at the very bottom of the code:
     }
 
     .hshift:hover {color:#58ACFA;}
-`
+
 
 Check out the [demo](http://jsfiddle.net/ZICKONEZERO/7JPy3/1/). 
 
