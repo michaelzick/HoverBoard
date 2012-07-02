@@ -1,5 +1,5 @@
 # What does this do?: 
-This plugin cycles through text, separates out each word from the spaces, and wraps them with html tags.
+This plugin cycles through text, separates out each word from the spaces and wraps them with html tags.
 
 ## How do I use it?
 For each paragraph you want to run the plugin on, give it a class of "hoverBoard":
