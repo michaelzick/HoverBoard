@@ -1,4 +1,4 @@
-# What does this do?: 
+# What does this do?
 This plugin cycles through text, separates out each word from the spaces and wraps them with html tags.
 
 ## How do I use it?
@@ -21,10 +21,10 @@ Then create the function call at the very bottom of the code:
 
     .hshift:hover {color:#58ACFA;}
 
-Check out the [demo](http://jsfiddle.net/ZICKONEZERO/7JPy3/1/). 
+Check out the [demo](http://jsfiddle.net/ZICKONEZERO/7JPy3/). 
 
 ### Requirements:
-jQuery 1.7.2
+jQuery 1.7.2 or later
 
 ### Supported Browsers:
 Chrome  
